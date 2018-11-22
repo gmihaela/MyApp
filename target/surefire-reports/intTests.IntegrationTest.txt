@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: intTests.IntegrationTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.163 sec - in intTests.IntegrationTest
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.559 sec <<< FAILURE! - in intTests.IntegrationTest
+TestTitle1 on TestTitle1(intTests.IntegrationTest)(intTests.IntegrationTest)  Time elapsed: 0.049 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\usr\local\bin\phantomjs
+	at intTests.IntegrationTest.TestTitle1(IntegrationTest.java:19)
+
