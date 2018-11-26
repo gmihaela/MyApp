@@ -1,4 +1,5 @@
 target/
 phantomjsdriver.log
 myApp.iml
+.idea
 
