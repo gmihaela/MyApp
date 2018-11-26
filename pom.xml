@@ -8,7 +8,7 @@
     <artifactId>myAPP</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>Dani Webapp</name>
+    <name>Miha Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
         <spring.version>4.3.3.RELEASE</spring.version>

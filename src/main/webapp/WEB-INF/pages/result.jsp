@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <title>MyApp</title>
-    <meta name="description" content="DaniApp" >
+    <meta name="description" content="MihaApp" >
     <meta name="author" content="Jewel Theme">
 
 

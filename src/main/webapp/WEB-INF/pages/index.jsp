@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <title>MyApp</title>
-    <meta name="description" content="DaniApp" >
+    <meta name="description" content="MihaApp" >
     <meta name="author" content="Jewel Theme">
 
 
@@ -21,7 +21,7 @@
     Ip-ul masinii curente este: ${localIP}
     <br>
     <br>
-    Good luck, Dani!
+    Good luck, Miha!
     <br>
 </body>
 </html>
