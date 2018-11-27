@@ -20,6 +20,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>4.12-beta-1</junit.version>
         <ghostdriver.version>1.1.0</ghostdriver.version>
+        <runSuite>**/IntegrationTest.class</runSuite>
     </properties>
     <dependencies>
 
@@ -295,12 +296,13 @@
                             <exclude>none</exclude>
                         </excludes>
                         <includes>
-                            <include>**/*IntegrationTest.java</include>
+                            <include>${runSuite}</include>
                         </includes>
                     </configuration>
                 </execution>
             </executions>
         </plugin>
+
 
 		<plugin>
     <groupId>org.apache.tomcat.maven</groupId>
